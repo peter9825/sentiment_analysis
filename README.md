@@ -1,8 +1,8 @@
-# Reading from the Project
+# Reading From The Project
 
 The application is all in main.py
 
-# Running the Project
+# Running The Project
 
 My submission includes one python script "main.py" and two csv files. 
 These csv files are custom datasets that you can load into the application. If you plan on running the project, I recommend using pycharm but vscode should also work, 
